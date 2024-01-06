@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pwml$3$fuxd2yq6jlpzj*=7n_0zl0j&6$iada0n^$%2y0522i#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.com']
+ALLOWED_HOSTS = ['nutrition-finder.vercel.app']
 
 
 # Application definition
